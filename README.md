@@ -8,6 +8,7 @@ The Pascal VOC challenge is a very popular dataset for building and evaluating a
 ## Dataset 
 * [Training Dataset. Documentation & Development Kit](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit)
 * For Testing Data Register [here](http://host.robots.ox.ac.uk:8080/)
+* [Training & Testing Data](https://www.kaggle.com/utsavk02/pascal-voc)
 
 ## Tasks :
 - [ ] Classification Task
