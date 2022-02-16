@@ -11,11 +11,14 @@ The Pascal VOC challenge is a very popular dataset for building and evaluating a
 * [Training & Testing Data](https://www.kaggle.com/utsavk02/pascal-voc)
 
 ## Tasks :
-- [ ] Classification Task
-- [ ] Detection Task
-- [ ] Segmentation Task
-- [ ] Action Classification Task
-- [ ] Boxless Action Classification Task
-- [ ] Person Layout Task 
+- [ ] Main Task
+  - [ ] Classification
+  - [ ] Detection
+  - [ ] Segmentation
+  - [ ] Action Classification 
+  - [ ] Large Scale Recognition 
+- [ ] Additional “taster” Task
+  - [ ] Boxless Action Classification 
+  - [ ] Person Layout  
 
 [Task Details](https://pjreddie.com/media/files/VOC2012_doc.pdf)
