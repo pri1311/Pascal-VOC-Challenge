@@ -12,9 +12,12 @@ The Pascal VOC challenge is a very popular dataset for building and evaluating a
 
 ## Tasks :
 - [ ] Main Task
-  - [ ] Classification : For each of the classes predict the presence/absence of at least one object of that class in a test image.
-  - [ ] Detection : For each of the classes predict the bounding boxes of each object of that class in a test image (if any).
-  - [ ] Segmentation : For each pixel in a test image, predict the class of the object containing that pixel or ‘background’ if the pixel does not belong to one of the twenty specified classes.
+  - [ ] Classification : 
+    - For each of the classes predict the presence/absence of at least one object of that class in a test image.
+  - [ ] Detection : 
+    - For each of the classes predict the bounding boxes of each object of that class in a test image (if any).
+  - [ ] Segmentation : 
+    - For each pixel in a test image, predict the class of the object containing that pixel or ‘background’ if the pixel does not belong to one of the twenty specified classes.
   - [ ] Action Classification 
   - [ ] Large Scale Recognition 
 - [ ] Additional “taster” Task
